@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One');
+
+body { 
+background:#3366ff;
+  font-family: 'Poiret One', cursive;
+  }
+h1 {
+   color: orange;}
+
+#andrew {
+  background: green;
+  padding: 20px;
+  margin: 35px;
+  border-radius: 27px;
+}
+
+img{
+  width:500px;
+    
+}
+
